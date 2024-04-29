@@ -1,0 +1,58 @@
+[
+    {
+        "type": "scenario",
+        "id": "extscenario_chimera",
+        "copy-from": "extscenario_chimera",
+        "extend": {
+            "traits": [
+                "AMPHIBIAN",
+                "BEAK_HUM",
+                "BEAK_PECK",
+                "BIRD_EYE",
+                "BIRD_LEGS",
+                "BLOODFEEDER",
+                "BOMBADIER_BLAST",
+                "CLAWS_TENTACLE",
+                "CRUSTACEAN_CLAW",
+                "INSECT_ARMS",
+                "INSECT_ARMS_OK",
+                "FANGS_VAMPIRE",
+                "FRESHWATEROSMOSIS",
+                "GASTROPOD_BALANCE",
+                "GASTROPOD_EXTREMITY1",
+                "GASTROPOD_EXTREMITY2",
+                "GASTROPOD_EXTREMITY3",
+                "GASTROPOD_FOOT",
+                "GIZZARD",
+                "GILLS",
+                "GIZZARD",
+                "LEG_TENT_BRACE",
+                "LEAPING_LEGS",
+                "LEAPING_LEGS2",
+                "LONG_TONGUE2",
+                "MUCUS_SECRETION",
+                "MUCUS_SECRETION2",
+                "TAIL_STING",
+                "PACK_HUNTER",
+                "PERSISTENCE_HUNTER2",
+                "POISONOUS2",
+                "REGEN_LIZ",
+                "SCUTTLE",
+                "SNAIL_TRAIL",
+                "SLIME_SPRAY",
+                "STOCKY_TROGLO"
+                "SHELL2",
+                "SHELL3",
+                "THICK_SCALES"
+                "TOXICFLESH",
+                "VISCOUS"
+            	"WEB_RAPPEL",
+                "WEB_ROPE",
+                "WEB_SPINNER",
+                "WEB_WEAVER",
+                "WINGS_BIRD",
+                "WINGS_BUTTERFLY"
+            ]
+        }
+    }
+]

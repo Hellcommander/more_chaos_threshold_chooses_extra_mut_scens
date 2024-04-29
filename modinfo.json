@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "more_chaos_threshold_chooses_extra_mut_scens",
+    "name": "More selectable threshold mutations for chaos threshold in Extra Mutated Scenarios",
+    "authors": [ "Arendeth" ],
+    "description": "Allows more threshold mutations selectable for chimera from other thresholds (since wildcard rule means it can take mutations from animal(non human-like, plantlife, or slime) mainly for my own use but others are welcome to use this based thresholds) scenerios added by Extra Mutated Scenarios",
+    "category": "rebalance",
+    "dependencies": [ "dda", "extra_mut_scens" ]
+  }
+]
